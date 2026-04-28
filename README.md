@@ -73,3 +73,5 @@ Import cleaned data into SQL and run queries
 Open Power BI file (.pbix) to view dashboard
 💡 Conclusion
 This project demonstrates end-to-end data analytics workflow — from raw data to actionable insights. It highlights skills in Python, SQL, and data visualization, making it suitable for data analyst roles.
+## Dashboard Preview
+![Dashboard](Dashboard.png)
